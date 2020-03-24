@@ -43,7 +43,7 @@ yarn lint
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.3.1.zip)
+- [Download the latest release.](https://github.com/wovosoft/bootstrap-vue-font-awesome-picker/archive/0.1.2.zip)
 - Clone the repo: `git clone https://github.com/wovosoft/bootstrap-vue-font-awesome-picker.git`
 - Install with [npm](https://www.npmjs.com/): `npm install bootstrap-vue-font-awesome-picker`
 - Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-vue-font-awesome-picker`
@@ -51,7 +51,7 @@ Several quick start options are available:
 ## Status
 
 
-[![npm version](https://img.shields.io/npm/v/bootstrap.svg)](https://www.npmjs.com/package/bootstrap-vue-font-awesome-picker)
+[![npm version](https://img.shields.io/npm/v/bootstrap-vue-font-awesome-picker.svg)](https://www.npmjs.com/package/bootstrap-vue-font-awesome-picker)
 
 
 

@@ -5,9 +5,15 @@
   "main": "dist/library.esm.js",
   "source": "src/main.js",
   "author": {
-    
+    "name": "Narayan Adhikary",
+    "email": "narayanadhikary24@gmail.com",
+    "url": "https://github.com/narai420"
   },
   "homepage": "https://www.wovosoft.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wovosoft/bootstrap-vue-font-awesome-picker"
+  },
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",

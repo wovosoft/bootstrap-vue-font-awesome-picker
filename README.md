@@ -74,7 +74,7 @@ bootstrap-vue-font-awesome-picker
 ## Documentation
 You Can Use the Plugin as a compnent directly to your vuejs application as the example written below.  
 No need to import additional CSS, the plugin will load the required CSS styles automatically.
-```js
+```html
 
 <template>
     <div>

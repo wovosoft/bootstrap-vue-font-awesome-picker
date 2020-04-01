@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wovosoft.com/">
-    <img src="https://wovosoft.com/wp-content/uploads/2019/10/logo_text-scaled-177x58.png" alt="Wovosoft Software Development Compnay"  height="72">
+    <img src="https://github.com/wovosoft/bootstrap-vue-font-awesome-picker/blob/master/wovosoft.png" alt="Wovosoft Software Development Compnay"  height="72">
   </a>
 </p>
 
